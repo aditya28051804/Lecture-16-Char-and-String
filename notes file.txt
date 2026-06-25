@@ -1,0 +1,4 @@
+NOTES 
+char data type stores the character like "a" "b" .......... "z" 
+it takes one byte of memory 
+ASCII we can find the values of these
